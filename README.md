@@ -1,4 +1,4 @@
-# IMPLEMENTATION OF UNIVARIATE LINEAR REGRESSION
+# EXPERIMENT 01:IMPLEMENTATION OF UNIVARIATE LINEAR REGRESSION
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
